@@ -8,5 +8,5 @@ This project is a movie recommendation system built using collaborative filterin
 - surprise
 - Flask
 
-#Download the dataset from here :
-https://drive.google.com/file/d/1x52ghpUmgUbljEfGKDWsEfPL53A-nqsT/view?usp=sharing
+# Download the dataset from here :
+https://files.grouplens.org/datasets/movielens/ml-latest-small.zip
