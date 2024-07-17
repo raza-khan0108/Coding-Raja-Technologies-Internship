@@ -1,6 +1,5 @@
 # Movie Recommendation System
-
-This project is a movie recommendation system built using collaborative filtering techniques to suggest movies to users based on their preferences.
+This project employs collaborative filtering techniques to recommend movies to users according to their preferences.
 
 ## Tech Stack
 - Python
